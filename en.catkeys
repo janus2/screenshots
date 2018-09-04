@@ -1,0 +1,157 @@
+1	English	application/x-vnd.xeD.BePodder	2007159782
+Stop the item download	IABPDownload		Stop the item download
+Check the selected podcast for new items	IABPChannel		Check the selected podcast for new items
+Channel image	BitmapWindow		Channel image
+(Re)start download	IABPItem		(Re)start download
+Delete the podcast from the subscriptions list	IABPChannel		Delete the podcast from the subscriptions list
+downloading	SubscriptionColumn		downloading
+Download the selected episode	IABPItem		Download the selected episode
+Cancel	IABPGroup		Cancel
+Full screen	MainWindow		Full screen
+connecting	SubscriptionColumn		connecting
+Subscription info	MainWindow		Subscription info
+Tutorials	MainWindow		Tutorials
+Remove channel	IABPChannel		Remove channel
+Add subscription	AddWindow		Add subscription
+not found	SubscriptionColumn		not found
+Check the channel every:	BPSettingsWindow	After 'every:' follows a popup menu to choose a time intervall	Check the channel every:
+Size	DL-Episode-ListView		Size
+Loading help…	MainWindow		Loading help…
+Play enclosure	IABPItem		Play enclosure
+never	BPSettingsWindow		never
+\nAn error occured while removing!	IABPChannel		\nAn error occured while removing!
+can't connect	SubscriptionColumn		can't connect
+BePodder	System name		BePodder
+error	SubscriptionColumn		error
+alert_swf	AutoFileTypeMap		alert_swf
+Download the selected episode	IABPDownload		Download the selected episode
+Check all the podcasts for new items	IABPChannel		Check all the podcasts for new items
+Open webpage	IABPItem		Open webpage
+Play the selected episode	IABPDownload		Play the selected episode
+invalid format	SubscriptionColumn		invalid format
+Open homepage	IABPChannel		Open homepage
+not found	FileStatusColumn		not found
+\nYou are going to remove the channel:\n\n	IABPChannel		\nYou are going to remove the channel:\n\n
+Show channel image	MainWindow		Show channel image
+Delete	IABPItem		Delete
+Date	DL-Episode-ListView		Date
+Show the news homepage	IABPItem		Show the news homepage
+(Re)start download	IABPDownload		(Re)start download
+new	FileStatusColumn		new
+Can't connect!	DirectoryWindow		Can't connect!
+Rename group	IABPGroup		Rename group
+Toolbar	MainWindow		Toolbar
+Episodes scaricati	ChannelSettingsWindow		Episodes scaricati
+\nParsing archive…	MainWindow		\nParsing archive…
+Group	MainController		Group
+Max. downloads:	BPSettingsWindow		Max. downloads:
+File	MainWindow		File
+alert1_fix..	IABPGroup		alert1_fix..
+Index	HelpWindow		Index
+{0, plural,=0{no new items}=1{1 new item}other{# new items}}	SubscriptionColumn		{0, plural,=0{no new items}=1{1 new item}other{# new items}}
+Remove item	IABPItem		Remove item
+Subscription	DL-Episode-ListView		Subscription
+Subscribe	DirectoryWindow		Subscribe
+Can't resolve host!	DirectoryWindow		Can't resolve host!
+View	MainWindow		View
+Username	BPSettingsWindow		Username
+5 minutes	BPSettingsWindow		5 minutes
+Not found!	DirectoryWindow		Not found!
+not downloaded	FileStatusColumn		not downloaded
+Add the selected podcast to the Subscription list	DirectoryWindow		Add the selected podcast to the Subscription list
+Add a new group	IABPGroup		Add a new group
+OK	MainController		OK
+enquequed	FileStatusColumn		enquequed
+Downloads	MainWindow		Downloads
+\nYou are going to remove the selected item.\n\nAre you sure?\n(You will lose any enclosed file if there are any.)	IABPItem		\nYou are going to remove the selected item.\n\nAre you sure?\n(You will lose any enclosed file if there are any.)
+Cancel	IABPChannel		Cancel
+Episodes letti (o con errore)	ChannelSettingsWindow		Episodes letti (o con errore)
+Check all channels	IABPChannel		Check all channels
+stopped	FileStatusColumn		stopped
+connecting	FileStatusColumn		connecting
+Preferences	SettingsWindow		Preferences
+Preferences…	MainWindow		Preferences…
+enquequed	SubscriptionColumn		enquequed
+Title	DL-Episode-ListView		Title
+Add group	IABPGroup		Add group
+Show channel image	IABPChannel		Show channel image
+Keyboard shortcuts	MainWindow		Keyboard shortcuts
+Quit	MainWindow		Quit
+downloaded	FileStatusColumn		downloaded
+15 minutes	BPSettingsWindow		15 minutes
+Subscriptions	MainWindow		Subscriptions
+Groups	MainWindow		Groups
+Prev	HelpWindow		Prev
+1 hour	BPSettingsWindow		1 hour
+Port	BPSettingsWindow		Port
+Collapse all categories in the directory list	DirectoryWindow		Collapse all categories in the directory list
+Rename the selected group	IABPGroup		Rename the selected group
+Cancel	SettingsWindow		Cancel
+Add	AddWindow		Add
+error	FileStatusColumn		error
+Find this item	IABPDownload		Find this item
+Next	HelpWindow		Next
+2 hours	BPSettingsWindow		2 hours
+Browser	BPSettingsWindow		Browser
+Check the podcasts of the selected group for new items	IABPGroup		Check the podcasts of the selected group for new items
+Check channel	IABPChannel		Check channel
+Show the podcast homepage	IABPChannel		Show the podcast homepage
+Add the podcast to the subscriptions list	IABPChannel		Add the podcast to the subscriptions list
+Proxy	BPSettingsWindow		Proxy
+Stop download	IABPItem		Stop download
+Close!	TheApp		Close!
+Subscriptions	SubscriptionListView		Subscriptions
+Remove from this list	IABPDownload		Remove from this list
+Downloading	DirectoryWindow		Downloading
+Remove	ChannelSettingsWindow		Remove
+Open enclosures folder	IABPChannel		Open enclosures folder
+WHO?	ChannelSettingsWindow		WHO?
+Http port failed!	DirectoryWindow		Http port failed!
+Archive	IABPChannel		Archive
+Remove a channel	IABPChannel		Remove a channel
+Play enclosure	IABPDownload		Play enclosure
+Add channel	IABPChannel		Add channel
+Getting started	HelpWindow		Getting started
+Collapse all	DirectoryWindow		Collapse all
+not down	SubscriptionColumn		not down
+Download	BPSettingsWindow		Download
+\nParsing archive…	TheApp		\nParsing archive…
+Episodes nuovi	ChannelSettingsWindow		Episodes nuovi
+Getting started	MainWindow		Getting started
+Enclosure: 	MainWindow		Enclosure: 
+Check all channels on startup	BPSettingsWindow		Check all channels on startup
+Help	MainWindow		Help
+Address	BPSettingsWindow		Address
+Feed URL	AddWindow		Feed URL
+Delete	IABPChannel		Delete
+OK	IABPChannel		OK
+Enable proxy	BPSettingsWindow		Enable proxy
+can't connect	FileStatusColumn		can't connect
+WHEN?	ChannelSettingsWindow		WHEN?
+Cancel	AddWindow		Cancel
+Play the selected episode	IABPItem		Play the selected episode
+Cancel	IABPItem		Cancel
+Password	BPSettingsWindow		Password
+30 minutes	BPSettingsWindow		30 minutes
+Status	DL-Episode-ListView		Status
+Episode info	MainWindow		Episode info
+Save	SettingsWindow		Save
+\nRemoving…	IABPChannel		\nRemoving…
+\n\nWould you like just to archive this channel (keeping all the files and enclosures downloaded so far) or do you want to DELETE the whole channel from you computer?	IABPChannel		\n\nWould you like just to archive this channel (keeping all the files and enclosures downloaded so far) or do you want to DELETE the whole channel from you computer?
+Episodes	MainWindow		Episodes
+Downloads	BPSettingsWindow		Downloads
+Export OPML…	MainWindow		Export OPML…
+Player	BPSettingsWindow		Player
+Filetype	BPSettingsWindow		Filetype
+Stop download	IABPDownload		Stop download
+Delete	IABPGroup		Delete
+Delete the item and the enclosure	IABPItem		Delete the item and the enclosure
+Icon	DL-Episode-ListView		Icon
+Remove group	IABPGroup		Remove group
+About BePodder	MainWindow		About BePodder
+Channels	BPSettingsWindow		Channels
+Remove a group and delete all the channels	IABPGroup		Remove a group and delete all the channels
+Stop the item download	IABPItem		Stop the item download
+downloading	FileStatusColumn		downloading
+Import OPML…	MainWindow		Import OPML…
+Check channels of group	IABPGroup		Check channels of group
